@@ -28,3 +28,7 @@ This project successfully meets all the specified requirements:
 ## Setup and Usage
 
 No special setup is required. Simply open the `index.html` file in any modern web browser to see the clock in action.
+
+### Notes
+
+Please note that this readme file was written by myself and AI was used to improve the structure, layout, and language of the file.
